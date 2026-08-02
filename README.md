@@ -1,18 +1,18 @@
 <div align="center">
-<table width="90%" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 12px; border-collapse: separate; border-spacing: 0; overflow: hidden;">
-<tr style="background-color: #0d1117;">
-<td style="padding: 10px 15px; border-bottom: 1px solid #30363d; border-top-left-radius: 12px; border-top-right-radius: 12px;" align="left">
-🔴 🟡 🟢 &nbsp;&nbsp;&nbsp; <code style="background: transparent; color: #c9d1d9; font-family: 'Fira Code', monospace;">shubham@dev-machine:~</code>
-</td>
-</tr>
-<tr>
-<td align="center" style="padding: 40px 20px; font-family: 'Fira Code', monospace; color: #c9d1d9; border-bottom-left-radius: 12px; border-bottom-right-radius: 12px;">
-<h1 style="color: #c9d1d9; margin-bottom: 10px;">Hi there, I'm Shubham Suryawanshi</h1>
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=58a6ff&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Full-Stack+Developer;Building+Open-Source+Projects" alt="Typing SVG" />
-</a>
-</td>
-</tr>
+<table width="90%" style="border-collapse: separate; border-spacing: 0; border: 1px solid #30363d; border-radius: 12px;">
+  <tr>
+    <td style="background-color: #161b22; padding: 10px 15px; border-bottom: 1px solid #30363d; border-top-left-radius: 11px; border-top-right-radius: 11px;" align="left">
+      🔴 🟡 🟢 &nbsp;&nbsp;&nbsp; <code style="background: transparent; color: #c9d1d9; font-family: 'Fira Code', monospace;">shubham@dev-machine:~</code>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="background-color: #0d1117; padding: 40px 20px; font-family: 'Fira Code', monospace; color: #c9d1d9; border-bottom-left-radius: 11px; border-bottom-right-radius: 11px;">
+      <h1 style="color: #c9d1d9; margin-bottom: 10px;">Hi there, I'm Shubham Suryawanshi</h1>
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=58a6ff&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Full-Stack+Developer;Building+Open-Source+Projects" alt="Typing SVG" />
+      </a>
+    </td>
+  </tr>
 </table>
 </div>
 
