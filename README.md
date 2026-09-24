@@ -1,6 +1,6 @@
 # Hi, I'm Shubham 👋
 
-I'm a Full-Stack Developer who loves turning ideas into clean, working code.
+I'm a Web Developer who loves turning ideas into clean, working code.
 
 I'm currently pursuing my B.Tech in Computer Science and Engineering, and spend most of my time building full-stack web apps, sharpening my problem-solving through competitive programming, and exploring new tools across the JavaScript and Python ecosystems.
 
